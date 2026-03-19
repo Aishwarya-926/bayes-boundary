@@ -1,6 +1,7 @@
 # 🎯 Interactive Bayesian Decision Boundary Simulator
 
-[UI Preview](newplot(2).png)
+
+
 
 
 A modern, interactive web-based simulator for visualizing **Multivariate Bayesian Decision Boundaries**. Inspired by classic Pattern Recognition Java Applets, this tool allows users to dynamically manipulate Means (μ), Covariance Matrices (Σ), and Prior Probabilities to instantly see how probability density contours and decision boundaries (Linear and Quadratic) adapt in a 2D feature space.
